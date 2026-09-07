@@ -1,0 +1,4 @@
+interface:
+  display_name: "金融空状态视觉"
+  short_description: "生成统一风格的金融行业无数据透明空状态插画"
+  default_prompt: "使用 $finance-empty-state 生成一张金融空状态透明插画，表达多源数据调取和模型评估已完成，但指定周期内有效行为记录较少，暂无统计结果展示。"

@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# 本地保留全部生成历史，但公开仓库只发布 examples/ 中的精选样例。
+/assets/
+
